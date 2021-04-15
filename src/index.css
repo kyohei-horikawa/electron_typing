@@ -1,0 +1,55 @@
+.first-row {
+  width: 800px;
+  height: 60px;
+  display: flex;
+}
+.second-row {
+  width: 800px;
+  height: 60px;
+  display: flex;
+}
+.third-row {
+  width: 800px;
+  height: 60px;
+  display: flex;
+}
+.fourth-row {
+  width: 800px;
+  height: 60px;
+  display: flex;
+}
+.fifth-row {
+  width: 800px;
+  height: 60px;
+  display: flex;
+}
+
+.key-image {
+  padding: 1px;
+}
+
+.focus {
+  background-color: blue;
+  opacity: 0.5;
+  padding: 1px;
+}
+
+.word-container {
+  display: flex;
+}
+
+.word {
+  flex-direction: row;
+}
+
+.keyboard {
+  position: absolute;
+  top: 300px;
+}
+
+.start-button{
+  position: absolute;
+  top: 700px;
+  width: 100px;
+  height: 30px;
+}
